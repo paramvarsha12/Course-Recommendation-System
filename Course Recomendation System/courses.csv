@@ -1,0 +1,6 @@
+course_id,course_name,tags,rating
+C101,Introduction to Machine Learning,"machine learning, ai, data",4.5
+C102,Web Development Bootcamp,"web, html, css, javascript",4.7
+C103,Data Science with Python,"python, data science, pandas, numpy",4.8
+C104,Java Programming,"java, oop, development",4.2
+C105,Database Management Systems,"sql, database, data, dbms",4.6
